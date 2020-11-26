@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+  }
+  .error-output{
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: italic;
+    color: red;
+  }
+  
+  p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  img{
+    margin-left: 38%;
+    display: block;
+    
+  }
+  input{
+    margin-left: 38%;
+    margin-top: 2%;
+  }
+  html{
+    font-size: 14px;
+    font-family: 'Open Sans',sans-serif;
+  }
+  html{
+    background-color: #00539F;
+  }
+  body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
