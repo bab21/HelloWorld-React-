@@ -39,6 +39,18 @@ class App extends React.Component{
         <input onChange={this.onNameChange}/>
         <span className="error-output">{this.state.nameError}</span>
       </div>
+      <p>At BridgeLabz, we're a techie community of</p>
+        <ul>
+            <li>technologists</li>
+            <li>thinkers</li>
+            <li>Builders</li>
+        </ul>
+        <p>Working together to keep the Tech Employability of Engineers alive and accessible,
+            so Tech Companies worldwide can get contributers and creators for Technology Solution
+            We believe this act of human collaboration across an employability plateform is essential
+            to individual growth and our collective future.</p>
+        <p>To know more about us, visit <a href="https://www.bridgelabz.com/">BridgeLabz</a>
+        to learn even more about our mission i.e. <strong>Employability to all</strong>.</p>
       </>
     );
   }
